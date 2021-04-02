@@ -1,0 +1,12 @@
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\bin\Debug\net5.0\GenericSQL.deps.json
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\bin\Debug\net5.0\GenericSQL.dll
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\bin\Debug\net5.0\ref\GenericSQL.dll
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\bin\Debug\net5.0\GenericSQL.pdb
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\obj\Debug\net5.0\GenericSQL.csprojAssemblyReference.cache
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\obj\Debug\net5.0\GenericSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\obj\Debug\net5.0\GenericSQL.AssemblyInfoInputs.cache
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\obj\Debug\net5.0\GenericSQL.AssemblyInfo.cs
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\obj\Debug\net5.0\GenericSQL.csproj.CoreCompileInputs.cache
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\obj\Debug\net5.0\GenericSQL.dll
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\obj\Debug\net5.0\ref\GenericSQL.dll
+C:\Users\kimni\Desktop\Apps\GenericSQL\GenericSQL\obj\Debug\net5.0\GenericSQL.pdb
