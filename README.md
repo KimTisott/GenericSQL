@@ -1,6 +1,6 @@
 # GenericSQL
 
-Minimalist and easy to use API to manage databases.
+Minimalist and easy to use API to access and manage databases.
 
 By combining EntityFramework capabilities with Dapper performance, this project aims to build complex queries with ease, that run fast and are easy to maintain.
 
