@@ -40,6 +40,7 @@ WARNING: this is not ready for production, use it at your own risk.
 * Add support for other databases:
   * MSSQL
   * Oracle
+* Replace raw queries with stored procedures
 
 ## Tutorial
 
